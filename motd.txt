@@ -1,1 +1,3 @@
-First launch of Evil Robot Kyle!
+Hey! New Horror gamemode! Still on beta.
+- added a new map
+- new skybox
