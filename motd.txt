@@ -1,3 +1,4 @@
 Hey! New Horror gamemode! Still on beta.
 - added a new map
 - new skybox
+- still no multiplayer 
